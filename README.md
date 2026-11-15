@@ -71,3 +71,5 @@ _Este repositorio es propiedad de la Legión del Mal. Acceso no autorizado será
 Darkseid (nuevo miembro)
 - Próxima reunión: jueves
 - Nueva política de seguridad
+- Nuevo miembro: Darkseid
+
