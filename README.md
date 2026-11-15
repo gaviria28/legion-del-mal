@@ -2,6 +2,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/gaviria28/legion-del-mal)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gaviria28/legion-del-mal)
 ![GitHub License](https://img.shields.io/github/license/gaviria28/legion-del-mal)
+![Estado](https://img.shields.io/badge/Estado-Operativa-brightgreen?style=for-the-badge)
+![Mision](https://img.shields.io/badge/Misi%C3%B3n-Banco%20Mundial-red?style=for-the-badge)
+![Nivel](https://img.shields.io/badge/Nivel-Cr%C3%ADtico-orange?style=for-the-badge)
+![Peligro](https://img.shields.io/badge/Peligro-M%C3%A1ximo-yellow?style=for-the-badge
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
