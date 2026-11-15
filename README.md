@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/gaviria28/legion-del-mal)
+![GitHub issues](https://img.shields.io/github/issues/gaviria28/legion-del-mal)
+![GitHub repo size](https://img.shields.io/github/repo-size/gaviria28/legion-del-mal)
+![GitHub License](https://img.shields.io/github/license/gaviria28/legion-del-mal)
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
@@ -68,3 +72,4 @@ Darkseid (nuevo miembro)
 - Próxima reunión: jueves
 - Nueva política de seguridad
 - Nuevo miembro: Darkseid
+
